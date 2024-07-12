@@ -7,6 +7,7 @@
 文件说明：
 
 ```
+
 .
 |-- README.md
 |-- attachment		实验用附件
@@ -49,10 +50,9 @@
 |   |-- Introduction to the MIPS32 Architecture.pdf
 |   |-- MIPS Calling Conventions Summary.pdf
 |   `-- MIPS32 Instruction Set Manual.pdf
+|-- report.pdf              实验报告
 |-- 汇编大作业说明文档.docx		本次作业的具体内容说明
 `-- 汇编实验指导.pdf			为MIPS重点内容复习及大作业解释
 ```
-
-
 
 **声明：仅供参考，请独立完成，禁止抄袭等学术不端行为。**
